@@ -2,3 +2,14 @@ body {
   background-image: url("abstract-empty-smooth-light-pink-studio-room-background-use-as-montage-product-display-banner-template_1258-71743.jpg"); /* Assuming Windows path */
   background-size: 100% auto;
 }
+
+section form input[type="text"] {
+  width: 500px; /* Set width to 200 pixels */
+  padding: 30px; /* Add padding for spacing */
+}
+
+section form button {
+  width: 150px; /* Set width to 150 pixels */
+  padding: 15px 25px; /* Add padding for spacing */
+  height: 40px; /* Set height to 40 pixels (optional) */
+}
