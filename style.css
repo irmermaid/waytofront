@@ -34,3 +34,6 @@ img[src="asset-1--unscreen.gif"] {
   cursor: pointer;
   font-family: "your_font_name", "fallback_font_name";
 }
+
+/* img[src="asset-1--unscreen.gif"] {
+  float: left; Float the image to the left */
