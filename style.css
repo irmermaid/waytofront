@@ -1,5 +1,5 @@
 body {
-  background-image: url("abstract-empty-smooth-light-pink-studio-room-background-use-as-montage-product-display-banner-template_1258-71743.jpg"); /* Assuming Windows path */
+  background-image: url("rm456-010.jpg"); /* Assuming Windows path */
   background-size: 100% auto;
 }
 
@@ -12,4 +12,15 @@ section form button {
   width: 150px; /* Set width to 150 pixels */
   padding: 15px 25px; /* Add padding for spacing */
   height: 40px; /* Set height to 40 pixels (optional) */
+}
+
+img[src="asset-2--unscreen.gif"] {
+  float: right; /* Float the image to the right */
+}
+
+img[src="asset-1--unscreen.gif"] {
+  float: left; /* Float the image to the left */
+}
+img[src="ezgif.com-resize (1).gif"] {
+  float: left; /* Float the image to the left */
 }
